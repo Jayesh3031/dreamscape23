@@ -1735,6 +1735,7 @@ footer p {
 footer .widget ul {
     list-style: none;
     margin-top: 5px;
+	margin-right: 10px;
 }
 /*widget li in footer*/
 footer .widget_categories ul li,
